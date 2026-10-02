@@ -1,13 +1,13 @@
 {
   "key": "ai-actions",
   "name": "AI Actions",
-  "version": "0.1.0-alpha.0",
+  "version": "0.1.0-alpha.1",
   "description": "Describe an action in plain language and let AI build it.",
   "icon": "ri:sparkling-2-line",
   "entry": "dist/index.js",
   "dependencies": [],
   "streamKitVersion": ">=0.1.0",
   "updateManifestUrl": "https://raw.githubusercontent.com/stream-kit-app/plugin-ai-actions/main/manifest.json",
-  "downloadUrl": "https://github.com/stream-kit-app/plugin-ai-actions/releases/download/v0.1.0-alpha.0/plugin-ai-actions.zip",
-  "sha256": "1cd6e6cfa6bd92705d61a2a23f6e7d5424b7c73595df24da7aa33fbc318d309f"
+  "downloadUrl": "https://github.com/stream-kit-app/plugin-ai-actions/releases/download/v0.1.0-alpha.1/plugin-ai-actions.zip",
+  "sha256": "e31bc2d8ed8c0af4666674e4d0ae8abdb10b743683a45861a6cddf917c3ca858"
 }
